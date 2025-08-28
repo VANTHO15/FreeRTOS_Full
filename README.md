@@ -1,1 +1,1 @@
-# FreeRTOS_Full
+- Slide: https://docs.google.com/presentation/d/1RbWp4Qn7v_MsPYmE_4MMkhPBR2MNoDQP/edit?usp=drive_link&ouid=106314165107786636522&rtpof=true&sd=true
